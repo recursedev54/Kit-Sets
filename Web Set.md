@@ -214,5 +214,3 @@
 214. `#000066`
 215. `#000033`
 216. `#000000`
-
-Let me know if you need any more assistance!
